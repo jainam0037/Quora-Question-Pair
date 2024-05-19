@@ -33,34 +33,6 @@ The project utilizes a dataset of question pairs from Quora, where each pair is 
 
 ## Steps for Approach
 
-Data Loading and Display: Loads the dataset and displays its structure.
-
-Data Preprocessing:
-
-Converts text to lowercase and removes special characters.
-Expands contractions.
-Removes HTML tags.
-Applies stemming to words.
-Tokenizes the text.
-Feature Engineering:
-
-Creates new features based on the length and word count of the questions.
-Calculates the common and total words between question pairs.
-Generates advanced token-based features.
-Computes length-based features.
-Uses fuzzy matching to create fuzzy features.
-Visualization:
-
-Visualizes the data using pair plots and t-SNE for dimensionality reduction.
-Model Training:
-
-Uses RandomForestClassifier and XGBoostClassifier for training.
-Evaluates models using accuracy scores and confusion matrices.
-Performs hyperparameter tuning with GridSearchCV.
-Additional Helper Functions: Provides helper functions to calculate common and total words, and token-based features for test data.
-
-
-
 1. **Data Collection:** Obtain the Quora question pair dataset.
 2. **Data Preprocessing:** Clean the text data (e.g., removing stop words, stemming).
 3. **Exploratory Data Analysis:** Visualize the distribution of question pairs, word clouds, and correlation between features.
