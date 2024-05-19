@@ -88,5 +88,3 @@ Visualize the data using pair plots and t-SNE for dimensionality reduction to un
 Provide helper functions to calculate common and total words, and token-based features for test data to streamline the preprocessing and feature engineering tasks.
 
 
-```python
-!pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
