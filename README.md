@@ -160,6 +160,8 @@ The project utilizes a dataset of question pairs from Quora, where each pair is 
 
 Load the dataset and display its structure to understand the features and labels.
 
+![Data Import](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Data%20Import.png)
+
 ### 2. Data Preprocessing
 
 - Convert text to lowercase and remove special characters.
