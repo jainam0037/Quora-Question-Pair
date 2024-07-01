@@ -76,7 +76,7 @@ Load the dataset and display its structure to understand the features and labels
 - Compute length-based features.
 - Use fuzzy matching to create fuzzy features.
 
-![Feature Engineering]([https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Data%20Import.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Feature%20Engineeing.png)
+![Feature Engineering](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Feature%20Engineeing.png)
 
 ### 4. Model Training
 
