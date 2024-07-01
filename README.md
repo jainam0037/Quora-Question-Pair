@@ -169,7 +169,7 @@ Load the dataset and display its structure to understand the features and labels
 - Remove HTML tags.
 - Apply stemming to words.
 - Tokenize the text.
-
+![Data Preprocessing](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Preprocess%20Function.png)
 ### 3. Feature Engineering
 
 - Create new features based on the length and word count of the questions.
@@ -177,6 +177,8 @@ Load the dataset and display its structure to understand the features and labels
 - Generate advanced token-based features.
 - Compute length-based features.
 - Use fuzzy matching to create fuzzy features.
+
+![Feature Engineering]([https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Data%20Import.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Feature%20Engineeing.png))
 
 ### 4. Model Training
 
@@ -195,10 +197,10 @@ Visualize the data using pair plots and t-SNE for dimensionality reduction to un
 **Snapshots:**
 
 1. **Pair Plot of Features**
-   ![Pair Plot](path/to/pair_plot.png)
+   ![Pair Plot]([path/to/pair_plot.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%201.png))
    
 2. **t-SNE Visualization**
-   ![t-SNE Visualization](path/to/tsne_plot.png)
+   ![t-SNE Visualization]([path/to/tsne_plot.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%202.png))
 
 ## Results
 
@@ -210,7 +212,7 @@ Visualize the data using pair plots and t-SNE for dimensionality reduction to un
   - AUC-ROC: 0.88
 
 - **Confusion Matrix:**
-  ![Confusion Matrix](path/to/confusion_matrix.png)
+  ![Results and Confusion Matrix]([path/to/confusion_matrix.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Models.png))
 
 ## Conclusion
 
