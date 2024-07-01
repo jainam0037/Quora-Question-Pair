@@ -95,10 +95,10 @@ Visualize the data using pair plots and t-SNE for dimensionality reduction to un
 **Snapshots:**
 
 1. **Pair Plot of Features**
-   ![Pair Plot]([path/to/pair_plot.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%201.png)
+   ![Pair Plot](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%201.png)
    
 2. **t-SNE Visualization**
-   ![t-SNE Visualization]([path/to/tsne_plot.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%202.png)
+   ![t-SNE Visualization](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Graph%202.png)
 
 ## Results
 
@@ -110,7 +110,7 @@ Visualize the data using pair plots and t-SNE for dimensionality reduction to un
   - AUC-ROC: 0.88
 
 - **Confusion Matrix:**
-  ![Results and Confusion Matrix]([path/to/confusion_matrix.png](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Models.png)
+  ![Results and Confusion Matrix](https://github.com/jainam0037/Quora-Question-Pair/blob/main/snapshots/Models.png)
 
 ## Conclusion
 
